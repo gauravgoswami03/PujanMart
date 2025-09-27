@@ -1,0 +1,105 @@
+Build a modern, interactive ecommerce website for selling Hindu Pujan Samagri (ritual items used in religious ceremonies and festivals). The site should have the following features and design elements:
+
+🎯 Core Purpose:
+
+Sell a wide variety of Pujan Samagri used in Hindu religious ceremonies and festivals like Diwali, Navratri, Ganesh Chaturthi, etc.
+
+Make the experience feel spiritual, traditional, yet modern and smooth.
+
+🛒 Product Categories (with filters):
+
+Include the following product categories on the homepage and allow users to filter/sort:
+
+Narial (Coconut)
+
+Dhoop, Agarbatti
+
+Chandan (Sandalwood), Roli, Kapoor (Camphor), Kafoor
+
+Diya, Tila, Paan, Fool (Flowers)
+
+Kalash, Sacred Threads, Pujan Thali, Ghee, Oil
+
+Add capability to easily add new categories.
+
+Allow filtering by:
+
+Price Range
+
+Festival type (Diwali, Ganesh Chaturthi, Navratri, etc.)
+
+Availability
+
+Rating
+
+✨ Design & UI/UX:
+
+Use Indian traditional aesthetics: temple bells, lotus motifs, diya animations, soft golden hues, and red-maroon color palette.
+
+Use subtle animations for transitions, product hovers, add to cart, etc., to keep it engaging.
+
+Include a festive theme switcher (e.g. during Diwali, Navratri etc.).
+
+The site should be mobile-first, responsive, and fast-loading.
+
+👤 User Login / Profile:
+
+User authentication via mobile number and OTP only (no password).
+
+Minimal and intuitive profile creation.
+
+Allow users to manage:
+
+Address Book
+
+Order History
+
+Wishlist
+
+Notifications
+
+🔍 Product Pages Should Include:
+
+High-quality product images
+
+Description, use-case (e.g. which festivals)
+
+Price and quantity selector
+
+Add to cart / Buy now
+
+Reviews & Ratings
+
+📱 Other Functional Features:
+
+Simple, fast checkout process
+
+Integration with payment gateways like UPI, Paytm, PhonePe, Debit/Credit card
+
+Order tracking
+
+Notification alerts (via SMS or app)
+
+📦 Admin Panel Features:
+
+Add/edit/delete products
+
+Manage categories and inventory
+
+View sales analytics and order reports
+
+🛠️ Tech Stack Recommendation (Optional):
+
+Frontend: ReactJS or Next.js with TailwindCSS
+
+Backend: Node.js with Express or Firebase
+
+Database: MongoDB or Firestore
+
+Auth: Firebase Authentication (Phone + OTP)
+
+Hosting: Vercel or Netlify for frontend, Firebase for backend
+
+🎯 Goal:
+
+Create a spiritually themed, easy-to-use ecommerce platform that simplifies the process of buying Pujan Samagri online for every Hindu household and temple
