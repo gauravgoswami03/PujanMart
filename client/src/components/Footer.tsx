@@ -26,7 +26,7 @@ export default function Footer() {
                 <span className="text-primary-foreground font-bold font-hindi">॥</span>
               </div>
               <h3 className="text-xl font-bold text-card-foreground font-serif">
-                PujanSamagri
+                Maruti Pujan Samagri
               </h3>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
@@ -114,18 +114,19 @@ export default function Footer() {
             <div className="space-y-3 pt-4">
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Phone className="w-4 h-4 text-primary" />
-                <span data-testid="text-phone">+91 98765-43210</span>
+                <span data-testid="text-phone">+91 94254-55256</span>
               </div>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Mail className="w-4 h-4 text-primary" />
-                <span data-testid="text-email">care@pujansamagri.com</span>
+                <span data-testid="text-email">ggoswami312@gmail.com</span>
               </div>
               <div className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin className="w-4 h-4 text-primary mt-0.5" />
-                <span data-testid="text-address">
-                  123 Temple Street,<br />
-                  Varanasi, UP 221001
-                </span>
+                <address className="not-italic leading-snug" data-testid="text-address">
+                  <span>Besides Ramkumar School,</span><br />
+                  <span>Kirti Stambh to District Hospital Road,</span><br />
+                  <span>Damoh, MP 470661, India</span>
+                </address>
               </div>
             </div>
           </div>

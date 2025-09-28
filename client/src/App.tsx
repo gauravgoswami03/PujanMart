@@ -100,7 +100,7 @@ function Home() {
   const handleAuthSuccess = (phoneNumber: string) => {
     setUser({ phone: phoneNumber, name: "Devotee" });
     toast({
-      title: "Welcome to PujanSamagri!",
+      title: "Welcome to Maruti Pujan Samagri!",
       description: "You're now logged in and ready to shop for sacred items.",
     });
   };

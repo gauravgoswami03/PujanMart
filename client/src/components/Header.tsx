@@ -36,7 +36,7 @@ export default function Header({
               <span className="text-primary-foreground font-bold font-hindi">॥</span>
             </div>
             <h1 className="text-xl font-bold text-foreground font-serif">
-              PujanSamagri
+              Maruti Pujan Samagri
             </h1>
           </div>
 

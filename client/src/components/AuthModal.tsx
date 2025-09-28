@@ -77,7 +77,7 @@ export default function AuthModal({ isOpen, onClose, onAuthSuccess }: AuthModalP
       <DialogContent className="sm:max-w-md" data-testid="dialog-auth">
         <DialogHeader>
           <DialogTitle className="text-center">
-            {step === 'phone' && 'Welcome to PujanSamagri'}
+            {step === 'phone' && 'Welcome to Maruti Pujan Samagri'}
             {step === 'otp' && 'Verify Your Number'}
             {step === 'profile' && 'Complete Your Profile'}
           </DialogTitle>
